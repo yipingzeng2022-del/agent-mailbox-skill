@@ -7,6 +7,9 @@
 ![node](https://img.shields.io/badge/node-%E2%89%A518-green)
 ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
+
+> 🌐 在线版（可直接读、可下载）：http://1.14.104.78/agent-mailbox/
+
 ---
 
 ## 这个仓库解决什么问题
